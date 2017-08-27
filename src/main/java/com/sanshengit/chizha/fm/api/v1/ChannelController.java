@@ -1,4 +1,4 @@
-package com.sansheng.live.api.v1;
+package com.sanshengit.chizha.fm.api.v1;
 
 import org.springframework.web.bind.annotation.*;
 

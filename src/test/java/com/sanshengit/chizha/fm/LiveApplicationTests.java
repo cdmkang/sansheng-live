@@ -1,4 +1,4 @@
-package com.sansheng.live;
+package com.sanshengit.chizha.fm;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
